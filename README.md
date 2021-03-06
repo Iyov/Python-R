@@ -10,6 +10,7 @@ https://www.python.org/downloads/
 https://www.anaconda.com/products/individual
 
 #### PIP
+```pip install pip```
 https://pypi.org/project/pip/
 
 ##### Pandas: 
@@ -41,9 +42,13 @@ https://pypi.org/project/pip/
 ### R
 https://cran.r-project.org/
 
+#### Doc: https://www.r-project.org/other-docs.html
+
 #### R Studio:
 https://rstudio.com/products/rstudio/download/
 
 
 ### LaTeX
 https://miktex.org/download
+
+### Doc Python: https://learnxinyminutes.com/docs/es-es/python-es/
